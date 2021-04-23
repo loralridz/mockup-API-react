@@ -1,0 +1,60 @@
+{
+  "Apparal": [
+    {
+      "id": "1",
+      "name": "Pockets Blue Denim",
+      "SKU": "UGG-BB-PUR-072",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 4000,
+      "Inventory": 0,
+      "url": "https://images.unsplash.com/photo-1519758340474-40fa8cba6584?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Light blue Denim",
+      "SKU": "UGG-BB-PUR-073",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 3000,
+      "Inventory": 0,
+      "url": "https://images.unsplash.com/photo-1614900195388-6d549dc6508a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNvYXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "3",
+      "name": "Burnt Orange Jacket",
+      "SKU": "UGG-BB-PUR-074",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 4000,
+      "Inventory": 8,
+      "url": "https://images.unsplash.com/photo-1604945964942-83d4d3e92a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "Shoes": [
+    {
+      "id": "1",
+      "name": "Gray Nike Air",
+      "SKU": "TROP-NP-PLAS-89",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 5000,
+      "Inventory": 5,
+      "url": "https://images.unsplash.com/photo-1509991956814-dde211b7a2e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "2",
+      "name": "Black Running shoes",
+      "SKU": "TROP-NP-PLAS-90",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 3000,
+      "Inventory": 8,
+      "url": "https://images.unsplash.com/photo-1473010350295-2c82192ebd8e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "3",
+      "name": "Classic White Nike",
+      "SKU": "TROP-NP-PLAS-89",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "Price": 7000,
+      "Inventory": 9,
+      "url": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2hvZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}
